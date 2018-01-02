@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "有10条评价"; ObjectID = "4Lv-rO-8UD"; */
+"4Lv-rO-8UD.text" = "有10条评价";
+
+/* Class = "UILabel"; text = "+"; ObjectID = "4ig-mh-d78"; */
+"4ig-mh-d78.text" = "+";
+
+/* Class = "UILabel"; text = "+"; ObjectID = "6al-zo-fQj"; */
+"6al-zo-fQj.text" = "+";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6dh-KS-Uis"; */
+"6dh-KS-Uis.text" = "Label";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "78z-7u-RPO"; */
+"78z-7u-RPO.text" = "-";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "EwS-RA-knA"; */
+"EwS-RA-knA.text" = "1";
+
+/* Class = "UINavigationController"; title = "CURD Demo"; ObjectID = "FjQ-ij-jlq"; */
+"FjQ-ij-jlq.title" = "CURD Demo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Kyg-ha-8yI"; */
+"Kyg-ha-8yI.text" = "Label";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "aOd-0n-GLm"; */
+"aOd-0n-GLm.text" = "-";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "d6K-46-kaE"; */
+"d6K-46-kaE.text" = "1";
+
+/* Class = "UINavigationItem"; title = "评论列表"; ObjectID = "gAw-bs-eyX"; */
+"gAw-bs-eyX.title" = "评论列表";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sFd-n2-ZHl"; */
+"sFd-n2-ZHl.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "购物车"; ObjectID = "vms-wV-Fdr"; */
+"vms-wV-Fdr.title" = "购物车";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xgj-KD-NyF"; */
+"xgj-KD-NyF.text" = "Label";
+
+/* Class = "UILabel"; text = "有10条评价"; ObjectID = "xl7-j1-l5n"; */
+"xl7-j1-l5n.text" = "有10条评价";
